@@ -14,8 +14,8 @@ RecipeTag.init({
   },
 }, { 
     sequelize,
-    modelName: "RecipeTag",
+    modelName: "Tree",
     timestamps: false
 });
 
-module.exports = RecipeTag;
+module.exports = Tree;
